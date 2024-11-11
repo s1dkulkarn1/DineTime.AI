@@ -1,0 +1,12 @@
+openai
+streamlit
+requests
+bs4
+os
+PIL
+streamlit
+pandas 
+datetime
+Image
+cv2
+Path
