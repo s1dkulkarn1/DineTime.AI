@@ -10,3 +10,4 @@ datetime
 Image
 cv2
 Path
+BeautifulSoup
